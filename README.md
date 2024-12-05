@@ -26,3 +26,7 @@ options:
   --rev REV             specify your revision, default is 1
   -v, --verbose         output verbose
 ```
+
+## Dockerized dnstwist
+
+You can find a dockerized version of dnstwist in our github repo [docker-dnstwist](https://github.com/theshellcompany/docker-dnstwist).
