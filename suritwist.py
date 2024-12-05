@@ -1,7 +1,7 @@
 """
 The idea behind suritwist is to leverage dnstwist and suricata in order to detect user going to potentially malicious pages.
-If you can't run your local copy of dnstwist (https://github.com/elceef/dnstwist), you can go to https://dnstwist.it and 
-export the results to a json file.
+If you can't run your local copy of dnstwist (https://github.com/elceef/dnstwist), we offer a dockerized version of dnstwist
+(https://github.com/theshellcompany/docker-dnstwist) you can go to https://dnstwist.it and export the results to a json file.
 """
 
 import argparse
